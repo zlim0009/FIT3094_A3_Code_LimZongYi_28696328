@@ -60,5 +60,4 @@ void AMigratoryUrge::MoveMigratoryTarget()
 
 	FVector Position(RandomX, RandomY, RandomZ);
 	SetActorLocation(Position);
-	BoidCounter = 0;
 }
