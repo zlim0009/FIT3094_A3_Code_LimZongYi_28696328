@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Flocking",
+			"Path": "F:\\Documents\\FIT3094\\FIT3094_A3_Code_LimZongYi_28696328\\W08 Base Code\\Source\\Flocking.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FlockingEditor",
+			"Path": "F:\\Documents\\FIT3094\\FIT3094_A3_Code_LimZongYi_28696328\\W08 Base Code\\Source\\FlockingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

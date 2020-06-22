@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Flocking.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\FlockingEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Asteroid.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Boid.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\BoidGenerator.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Flocking.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\FlockingGameModeBase.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\MigratoryUrge.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Predator.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Asteroid.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Boid.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\BoidGenerator.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Flocking.init.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\FlockingGameModeBase.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\MigratoryUrge.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Predator.gen.cpp.obj"
+"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Default.rc2.res"
+/OUT:"F:\Documents\FIT3094\FIT3094_A3_Code_LimZongYi_28696328\W08 Base Code\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking.lib"
+/INCLUDE:IMPLEMENT_MODULE_Flocking
